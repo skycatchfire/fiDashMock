@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+    font-family: 'DM Sans', sans-serif;
+    font-size: .8rem;
+}
+
+.shd {
+
+    -webkit-box-shadow: 5px 5px 25px 1px rgba(0,0,0,0.2); 
+    box-shadow: 5px 5px 25px 1px rgba(0,0,0,0.2);
+}
+
+.bubble {
+    clip-path: circle(50% at 50% 50%);
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "gulfstream",
+        "date": "6/22",
+        "progress": 89,
+        "techs": ["KB", "PT", "JT"]
+    },
+    {
+        "name": "cirrus",
+        "date": "6/25",
+        "progress": 89,
+        "techs": ["KB", "PT", "AP"]
+    },
+    {
+        "name": "cessna",
+        "date": "6/29",
+        "progress": 36,
+        "techs": ["AP", "JT"]
+    },
+    {
+        "name": "piper",
+        "date": "7/1",
+        "progress": 36,
+        "techs": ["MH", "AP", "JT"]
+    }
+    ,{
+        "name": "mooney",
+        "date": "7/12",
+        "progress": 15,
+        "techs": ["PT"]
+    }
+
+]

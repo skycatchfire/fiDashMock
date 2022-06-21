@@ -1,0 +1,466 @@
+{
+    "allTechs": [
+        [
+            {
+                "date": "5/29",
+                "unused": 14,
+                "mooney": 11,
+                "cirrus": 24,
+                "cessna": 11
+            },
+            {
+                "date": "5/30",
+                "unused": 6,
+                "mooney": 22,
+                "cirrus": 11,
+                "cessna": 4
+            },
+            {
+                "date": "5/31",
+                "unused": 4,
+                "mooney": 29,
+                "cirrus": 9,
+                "cessna": 17
+            },
+            {
+                "date": "6/1",
+                "unused": 26,
+                "mooney": 28,
+                "cirrus": 10,
+                "cessna": 2
+            },
+            {
+                "date": "6/2",
+                "unused": 5,
+                "mooney": 24,
+                "cirrus": 12,
+                "cessna": 8
+            },
+            {
+                "date": "6/3",
+                "unused": 7,
+                "mooney": 4,
+                "cirrus": 25,
+                "cessna": 18
+            },
+            {
+                "date": "6/4",
+                "unused": 8,
+                "mooney": 10,
+                "cirrus": 19,
+                "cessna": 19
+            }
+        ],
+        [
+            {
+                "date": "6/5",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/6",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/7",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/8",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/9",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/10",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/11",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            }
+        ],
+        [
+            {
+                "date": "6/12",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 11,
+                "piper": 7
+            },
+            {
+                "date": "6/13",
+                "unused": 2,
+                "gulfstream": 24,
+                "cirrus": 4,
+                "piper": 8
+            },
+            {
+                "date": "6/14",
+                "unused": 7,
+                "gulfstream": 2,
+                "cirrus": 17,
+                "piper": 9
+            },
+            {
+                "date": "6/15",
+                "unused": 4,
+                "gulfstream": 3,
+                "cirrus": 5,
+                "piper": 11
+            },
+            {
+                "date": "6/16",
+                "unused": 7,
+                "gulfstream": 0,
+                "cirrus": 12,
+                "piper": 9
+            },
+            {
+                "date": "6/17",
+                "unused": 2,
+                "gulfstream": 4,
+                "cirrus": 22,
+                "mooney": 9
+            },
+            {
+                "date": "6/18",
+                "unused": 9,
+                "gulfstream": 0,
+                "cirrus": 7,
+                "mooney": 9
+            }
+        ]
+    ],
+    "karl": [
+        [
+            {
+                "date": "5/29",
+                "unused": 14,
+                "mooney": 11,
+                "cirrus": 24,
+                "cessna": 11
+            },
+            {
+                "date": "5/30",
+                "unused": 6,
+                "mooney": 22,
+                "cirrus": 11,
+                "cessna": 4
+            },
+            {
+                "date": "5/31",
+                "unused": 4,
+                "mooney": 29,
+                "cirrus": 9,
+                "cessna": 17
+            },
+            {
+                "date": "6/1",
+                "unused": 26,
+                "mooney": 28,
+                "cirrus": 10,
+                "cessna": 2
+            },
+            {
+                "date": "6/2",
+                "unused": 5,
+                "mooney": 24,
+                "cirrus": 12,
+                "cessna": 8
+            },
+            {
+                "date": "6/3",
+                "unused": 7,
+                "mooney": 4,
+                "cirrus": 25,
+                "cessna": 18
+            },
+            {
+                "date": "6/4",
+                "unused": 8,
+                "mooney": 10,
+                "cirrus": 19,
+                "cessna": 19
+            }
+        ],
+        [
+            {
+                "date": "6/5",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/6",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/7",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/8",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/9",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/10",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            },
+            {
+                "date": "6/11",
+                "unused": 12,
+                "gulfstream": 20,
+                "cirrus": 19,
+                "piper": 9
+            }
+        ],
+        [
+            {
+                "date": "6/12",
+                "unused": 12,
+                "gulfstream": 20
+            },
+            {
+                "date": "6/13",
+                "unused": 2,
+                "gulfstream": 24,
+                "cirrus": 4
+            
+            },
+            {
+                "date": "6/14",
+                "unused": 7,
+                "gulfstream": 2,
+                "cirrus": 17
+                
+            },
+            {
+                "date": "6/15",
+                "unused": 4,
+                "gulfstream": 3,
+                "cirrus": 5
+                
+            },
+            {
+                "date": "6/16",
+                "unused": 7,
+                "gulfstream": 0,
+                "cirrus": 12
+                
+            },
+            {
+                "date": "6/17",
+                "unused": 2,
+                "gulfstream": 4,
+                "cirrus": 22
+                
+            },
+            {
+                "date": "6/18",
+                "unused": 9,
+                "gulfstream": 0,
+                "cirrus": 7
+                
+            }
+        ]
+        
+    ],
+    "paul": [
+        [
+            {
+                "date": "5/29",
+                "unused": 14,
+                "mooney": 11,
+                "cirrus": 24,
+                "cessna": 11
+            },
+            {
+                "date": "5/30",
+                "unused": 6,
+                "mooney": 22,
+                "cirrus": 11,
+                "cessna": 4
+            },
+            {
+                "date": "5/31",
+                "unused": 4,
+                "mooney": 29,
+                "cirrus": 9,
+                "cessna": 17
+            },
+            {
+                "date": "6/1",
+                "unused": 26,
+                "mooney": 28,
+                "cirrus": 10,
+                "cessna": 2
+            },
+            {
+                "date": "6/2",
+                "unused": 5,
+                "mooney": 24,
+                "cirrus": 12,
+                "cessna": 8
+            },
+            {
+                "date": "6/3",
+                "unused": 7,
+                "mooney": 4,
+                "cirrus": 25,
+                "cessna": 18
+            },
+            {
+                "date": "6/4",
+                "unused": 8,
+                "mooney": 10,
+                "cirrus": 19,
+                "cessna": 19
+            }
+        ],
+        [
+            {
+                "date": "5/29",
+                "unused": 14,
+                "mooney": 11,
+                "cirrus": 24,
+                "cessna": 11
+            },
+            {
+                "date": "5/30",
+                "unused": 6,
+                "mooney": 22,
+                "cirrus": 11,
+                "cessna": 4
+            },
+            {
+                "date": "5/31",
+                "unused": 4,
+                "mooney": 29,
+                "cirrus": 9,
+                "cessna": 17
+            },
+            {
+                "date": "6/1",
+                "unused": 26,
+                "mooney": 28,
+                "cirrus": 10,
+                "cessna": 2
+            },
+            {
+                "date": "6/2",
+                "unused": 5,
+                "mooney": 24,
+                "cirrus": 12,
+                "cessna": 8
+            },
+            {
+                "date": "6/3",
+                "unused": 7,
+                "mooney": 4,
+                "cirrus": 25,
+                "cessna": 18
+            },
+            {
+                "date": "6/4",
+                "unused": 8,
+                "mooney": 10,
+                "cirrus": 19,
+                "cessna": 19
+            }
+        ],
+        [
+            {
+                "date": "6/12",
+                "unused": 14,
+                "mooney": 11,
+                "cirrus": 24,
+                "cessna": 11
+            },
+            {
+                "date": "6/13",
+                "unused": 6,
+                "mooney": 22,
+                "cirrus": 11,
+                "cessna": 4
+            },
+            {
+                "date": "6/14",
+                "unused": 4,
+                "mooney": 29,
+                "cirrus": 9,
+                "cessna": 17
+            },
+            {
+                "date": "6/15",
+                "unused": 26,
+                "mooney": 28,
+                "cirrus": 10,
+                "cessna": 2
+            },
+            {
+                "date": "6/16",
+                "unused": 5,
+                "mooney": 24,
+                "cirrus": 12,
+                "cessna": 8
+            },
+            {
+                "date": "6/17",
+                "unused": 7,
+                "mooney": 4,
+                "cirrus": 25,
+                "cessna": 18
+            },
+            {
+                "date": "6/18",
+                "unused": 8,
+                "mooney": 10,
+                "cirrus": 19,
+                "cessna": 19
+            }
+        ]
+    ]
+}
